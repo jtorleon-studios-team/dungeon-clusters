@@ -4,7 +4,7 @@ Add variety to your Minecraft world with the *Dungeon Clusters* mod! This mod in
 
 ### Features:
 
-- **Four Types of Dungeons**: Explore four distinct types of dungeons:
+**Four Types of Dungeons**: Explore four distinct types of dungeons:
 - **Zombie Dungeon**
 - **Creeper Dungeon**
 - **Skeleton Dungeon**
